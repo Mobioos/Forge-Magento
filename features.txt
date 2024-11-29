@@ -1,0 +1,10 @@
+analytics : Done
+Review : Done
+catalog/product : Done ?
+Checkout/Cart : Done
+User Management (Customer) : done
+Login
+Payment (Paypal)
+Quote (price negotiation)
+Sale/Order
+Wishlist

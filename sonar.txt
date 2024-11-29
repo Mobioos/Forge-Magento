@@ -1,0 +1,8 @@
+docker run \
+    --rm \
+    -v "C:\Users\Karim\Documents\Doctorat\Mes Articles\JSS-InsightMapper\Experiment\Case Studies\magento2:/usr/src" \
+    --network="host" \
+    -e SONAR_HOST_URL="http://localhost:9000" \
+    -e SONAR_SCANNER_OPTS="-Dsonar.projectKey=magento2 -Dsonar.sources=." \
+    -e SONAR_TOKEN="8ecc3149453f3f18e85a5271321bf4a258408ee6" \
+    sonarsource/sonar-scanner-cli
