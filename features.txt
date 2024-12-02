@@ -5,5 +5,5 @@ Checkout/Cart : Done
 User Management (Customer) : done
 Login : Done
 Payment (Paypal) : Done
-Quote (price negotiation)
+Quote (price negotiation) : Done
 Sale/Order
