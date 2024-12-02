@@ -1,9 +1,9 @@
 analytics : Done
 Review : Done
-catalog/product : Done ?
+catalog/product : Done
 Checkout/Cart : Done
 User Management (Customer) : done
 Login : Done
-Payment (Paypal)
+Payment (Paypal) : Done
 Quote (price negotiation)
 Sale/Order
